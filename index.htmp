@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Crowe Lawn Care</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="wrapper">
+           <h1>Crowe Lawn Care</h1>
+            <header>
+             <br>
+             <img src="banner2.jpg" usemap="#image_map">
+            <map name="image_map">
+                <area alt="Crowe Lawn Care Home" title="Crowe Lawn Care Home" href="index.html" coords="21,12,692,177" shape="rect">
+            </map>
+            </header>
+           <nav>
+                    <a href="index.html">Home</a>
+                    <a href="services.html">Services</a>
+                    <a href="contact.html">Contact</a>
+            </nav>
+            <main>
+            <dl>
+                <dt>About Us</dt>
+                <dd>What started as a way for a 13 year old kid to earn some extra money has turned into what is now Crowe Lawn Care. Our goal is to provide for your lawn care needs, and we hope that we to do so in a professional manner.</dd>
+                <br>
+                <dt>Services</dt>
+                <dd>Although we specialize in mowing, that isn't the only way we are able to serve you. We have expanded from mowing and are now able to offer other services such as bush trimming, gutter cleaning, driveway deep cleaning, snow removal, and more. </dd>
+                <br>
+                <dt>Contact Us</dt>
+                <dd>If you have any questions feel free to reach out to us and look forward to doing business with you.</dd>
+                <br>
+            </dl>
+            </main>
+            <footer>
+                Copyright &copy; 2021 Crowe Lawn Care<br>
+                This site was created as part of the Web Development I course at Northwest Missouri State University and was developed to learn and enhance the concepts within that course.  It is not intended for public use. 
+            </footer>
+        </div>
+    </body>
+</html>

@@ -9,7 +9,7 @@ header { background-color: #020202;
        width: 720px;
        height: 200px;
        margin: auto;
-       padding-bottom: 25px;
+       padding-bottom: 25px; 
 }
 nav {float:inherit;
     color: #020202;
